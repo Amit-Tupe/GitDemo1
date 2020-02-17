@@ -11,6 +11,7 @@ public class GitTest1 {
 		System.out.println("First Demo Git...");
 		GitTest1 gt = new GitTest1();
 		System.out.println("Check Pul git to eclips");
+		gt.m1();
 	}
 
 }
